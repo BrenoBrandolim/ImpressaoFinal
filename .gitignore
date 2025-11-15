@@ -28,4 +28,8 @@ Thumbs.db
 # Configurações sensíveis
 instance/
 config.json
-config.py
+
+# Arquivos de banco locais
+*.db
+*.sqlite
+local_settings.py
